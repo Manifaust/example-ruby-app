@@ -1,4 +1,4 @@
-Fancy Test
+Fancy Dwayne
 
 # Shopify App Examples
 
