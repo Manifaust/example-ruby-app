@@ -1,4 +1,4 @@
-test
+Fancy Test
 
 # Shopify App Examples
 
