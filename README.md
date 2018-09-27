@@ -1,4 +1,4 @@
-Fancy Dwayne
+Slacker
 
 # Shopify App Examples
 
