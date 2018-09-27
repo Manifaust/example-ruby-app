@@ -1,4 +1,4 @@
-Slacker
+Loosey
 
 # Shopify App Examples
 
